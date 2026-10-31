@@ -1,0 +1,9 @@
+[project]
+name = "hackerman"
+version = "0.2.0"
+description = "Hollywood-hacker visual toy built with pygame"
+requires-python = ">=3.10"
+dependencies = ["pygame>=2.5,<3"]
+
+[tool.uv]
+package = false
